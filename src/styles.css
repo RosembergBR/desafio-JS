@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10em;
+  }
+
+.name_sys {
+    color: blue;
+}
+
+.table {
+    margin-bottom: 20px;
+}
